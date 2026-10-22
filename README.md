@@ -39,7 +39,7 @@ lelouch.command("Bugs, perish.");  // ✓ Yes, Your Majesty.
 
 <img src="https://skillicons.dev/icons?i=js,nodejs,express,threejs,html,css,git,github&perline=8" alt="JavaScript, Node.js, Express, Three.js, HTML, CSS, Git, GitHub" />
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Socket.IO-0a0610?style=for-the-badge&logo=socketdotio&logoColor=e3b84f" alt="Socket.IO" />
 <img src="https://img.shields.io/badge/Render-0a0610?style=for-the-badge&logo=render&logoColor=e3b84f" alt="Render" />
@@ -50,7 +50,7 @@ lelouch.command("Bugs, perish.");  // ✓ Yes, Your Majesty.
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=lelouchthegoat15&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Imperial%20Battle%20Record&bg_color=0a0610&title_color=e3b84f&icon_color=e0103a&text_color=d7c8ef&ring_color=e0103a&border_color=3a0d1c&border_radius=12" alt="GitHub stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=lelouchthegoat15&show_icons=true&count_private=true&rank_icon=github&custom_title=Imperial%20Battle%20Record&bg_color=0a0610&title_color=e3b84f&icon_color=e0103a&text_color=d7c8ef&ring_color=e0103a&border_color=3a0d1c&border_radius=12" alt="GitHub stats" />
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelouchthegoat15&layout=compact&langs_count=6&custom_title=Weapons%20Mastered&bg_color=0a0610&title_color=e3b84f&text_color=d7c8ef&border_color=3a0d1c&border_radius=12" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=lelouchthegoat15&background=0A0610&border=3A0D1C&stroke=3A0D1C&ring=E0103A&fire=FF3D5E&currStreakNum=E3B84F&sideNums=E3B84F&currStreakLabel=E3B84F&sideLabels=D7C8EF&dates=9C8CB8&border_radius=12" alt="Contribution streak" />

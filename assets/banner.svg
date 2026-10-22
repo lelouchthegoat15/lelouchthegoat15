@@ -6,7 +6,7 @@
 .pulse{animation:pulse 3.2s ease-in-out infinite}
 .e{animation:rise linear infinite}
 .ink path{stroke-dasharray:1;animation:ink 2.4s cubic-bezier(.65,0,.35,1) backwards}
-@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.e{display:none}}
 </style><defs>
 <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
   <stop offset="0" stop-color="#fff3c8"/><stop offset=".45" stop-color="#e3b84f"/><stop offset="1" stop-color="#9b6d1c"/>
